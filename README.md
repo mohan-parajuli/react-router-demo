@@ -25,7 +25,7 @@ This project demonstrates how to use React Router for navigation and routing in 
 - 404 Not Found page
 
 ## Demo
-Visit the [live demo](https://your-demo-url) to see the project in action and understand how routing works in React.
+Visit the [React Router Demo](https://github.com/mohan-parajuli/react-router) to see the project in action and understand how routing works in React.
 
 ## Conclusion
 This demo project serves as a guide to using React Router for efficient navigation in your React applications. Explore, modify, and enjoy!
